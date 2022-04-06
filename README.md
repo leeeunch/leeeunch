@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lee Eun Chan.
-- 👀 I’m interested in data analysis.
+- 👀 I’m interested in machine learning engineer.
 - 🌱 I’m currently learning Natural Language Process.
 - 💞️ I’m looking to collaborate on NLP project with me.
 - 📫 e-mail me to 921c@naver.com
